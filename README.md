@@ -4,9 +4,7 @@ Grandbout is a canvas based fighting game with 6 characters (still gonna add mor
 
 ## Usage
 
-- Use this template from GitHub to create a new repository under your user
 - Clone the repository
-- Change the name of the project in the `package.json`
 - Install the dependencies:
 
 ```bash
